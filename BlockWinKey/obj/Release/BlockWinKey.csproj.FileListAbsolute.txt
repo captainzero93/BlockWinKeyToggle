@@ -1,0 +1,10 @@
+C:\Users\Redacted\source\repos\BlockWinKey\BlockWinKey\bin\Release\BlockWinKey.exe.config
+C:\Users\Redacted\source\repos\BlockWinKey\BlockWinKey\bin\Release\BlockWinKey.exe
+C:\Users\Redacted\source\repos\BlockWinKey\BlockWinKey\bin\Release\BlockWinKey.pdb
+C:\Users\Redacted\source\repos\BlockWinKey\BlockWinKey\obj\Release\BlockWinKey.csproj.AssemblyReference.cache
+C:\Users\Redacted\source\repos\BlockWinKey\BlockWinKey\obj\Release\BlockWinKey.Form1.resources
+C:\Users\Redacted\source\repos\BlockWinKey\BlockWinKey\obj\Release\BlockWinKey.Properties.Resources.resources
+C:\Users\Redacted\source\repos\BlockWinKey\BlockWinKey\obj\Release\BlockWinKey.csproj.GenerateResource.cache
+C:\Users\Redacted\source\repos\BlockWinKey\BlockWinKey\obj\Release\BlockWinKey.csproj.CoreCompileInputs.cache
+C:\Users\Redacted\source\repos\BlockWinKey\BlockWinKey\obj\Release\BlockWinKey.exe
+C:\Users\Redacted\source\repos\BlockWinKey\BlockWinKey\obj\Release\BlockWinKey.pdb
